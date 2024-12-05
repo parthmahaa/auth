@@ -14,5 +14,5 @@ This is a robust authentication system built using **Next.js**. It provides secu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/parthmaha/auth.git
+   git clone https://github.com/parthmahaa/auth.git
    cd auth
